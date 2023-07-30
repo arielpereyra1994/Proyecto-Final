@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Shampoo Sedal",
+        "precio": 900,
+        "cantidad": 1,
+        "img": "https://ath2.unileverservices.com/wp-content/uploads/sites/13/2019/11/15223005/shampoo-sedal-keratina-con-antioxidante.jpg"
+    },
+    {
+        "id": 2,
+        "nombre":"Crema Facial",
+        "precio": 450,
+        "cantidad": 1,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_728793-MLA44613958126_012021-O.jpg"
+    },
+    {
+        "id": 3,
+        "nombre":"Jabon de Tocador",
+        "precio":420,
+        "cantidad": 1,
+        "img": "https://res.cloudinary.com/prixz/image/upload/d_default_product_txh9zg.svg,w_500,q_auto/items/7501056370947.jpg"
+    },
+    {
+        "id":4,
+        "nombre": "Shampoo Tresemme",
+        "precio": 400,
+        "cantidad": 1, 
+        "img": "https://www.puntofarma.com.py/imagenes/public/images/Shampoo-Liso-Keratina-TRESemme-750-mL-33280.jpg"
+    },
+    {
+        "id":5,
+        "nombre": "Crema de Peinar",
+        "precio": 450,
+        "cantidad": 1,
+        "img": "https://www.sedal.com.ar/content/dam/unilever/sunsilk/mexico/pack_shot/7501056340124-2070924-png.png"
+    }
+]
